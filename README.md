@@ -1,3 +1,5 @@
+![alt tag](https://travis-ci.org/lkolberg/artikler.svg?branch=master)
+
 # Artikler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
