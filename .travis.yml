@@ -15,7 +15,7 @@ before_script:
 install:
   - npm install
 script:
-  - npm run test-once 
+  - ng run test-once 
 
 notifications:
   email: true
